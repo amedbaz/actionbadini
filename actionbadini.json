@@ -1,6 +1,35 @@
 {
   "actionbadini":[
- 
+ {
+   "id":2,
+      "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/mecanic%2Fphoto_2024-09-03_08-43-49.jpg?alt=media&token=7d961aad-b7b0-48a4-a492-0ab7625bc721",
+      "wene":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/mecanic%2Fphoto_2024-09-03_08-43-51.jpg?alt=media&token=05139df5-01d3-4f60-ad01-5782be46cca6",
+      "ism":" ",
+      "nav":"Mechanic: Resurrection",
+    "action":"film",
+    "aaction":": Action",
+    "raiting":"star",
+    "araitng":": 5.7",
+    "time":"time-sharp",
+    "atime":": 1h 38m",
+    "trailer":"ترەیلەر",
+    "youtube":"QF903RaKLvs?si=RqKReBcrMzqrKNqg",
+      "youtube1":"rEoEOKO5imQ?si=rY3wDtnBD0MVqwEJ",
+      "youtube2":"UuipvXlmPOc?si=3WMMAi716YwFNDFZ",
+      "youtube3":"uIanJoXXcpU?si=LiPmb-xtB6U61t_8",
+      "jor":"Mechanic: Resurrection",
+"play":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/mecanic%2FMechanic.Resurrection.2016.1080p.BluRay.x264-%5BYTS.AG%5D.mp4?alt=media&token=fe9e39b8-a40f-42ac-8bd2-50e12e484a6b",
+ "kurti":"کورتی",
+ "akurti":"ئارسەر بیشوپ هزردکر کو وی رابردویێ خو یێ کوژەك  هێلایە ل پشت خوو هەتا وی دەمێ بهێزترین دوژمنێ وی خوشتڤیا وی رەڤاندی و نوکە ئەو یێ نەچارە بچیتە گەشتەکێ لدور جیهانێ بوو ئەنجامدانا سێ کوشتنێن مەحال و هەمی شیانێت خوو دمەزێخیت دا کو ئەو کوشتنە وەكی رویدانان دیاربکەت،و هوسا بهێتە هزرکرن کو چ پیلان بوو ڤان کوشتنا نەهاتینە دانان",
+"actor":"https://media.themoviedb.org/t/p/w276_and_h350_face/whNwkEQYWLFJA8ij0WyOOAD5xhQ.jpg",
+"actor1":"https://media.themoviedb.org/t/p/w276_and_h350_face/tyZ2r0tiPtTkE2udDEVbNXnMV4v.jpg",
+ "actor2":"https://media.themoviedb.org/t/p/w276_and_h350_face/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg",
+ "actor3":"https://media.themoviedb.org/t/p/w276_and_h350_face/h9uSZF5PvZoPF75H6w6gISAllCA.jpg",
+ "actor4":"https://media.themoviedb.org/t/p/w276_and_h350_face/h9uSZF5PvZoPF75H6w6gISAllCA.jpg",
+ "actor5":"https://media.themoviedb.org/t/p/w276_and_h350_face/wt4hoBCSl1YTY8pRhPuKlcmH8m0.jpg",
+"new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
+    },
+
 {
    "id":1,
       "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/john%20wick%2Fphoto_2024-08-28_10-31-43.jpg?alt=media&token=452ba689-d5ad-47eb-bf41-b75f021df883",
